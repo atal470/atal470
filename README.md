@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atal-amitabh-4a0b771b2" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/rihixHftyj4oQfi4M9PTOuI-en-HHEmpr9lA2DSmCEWTZcXMa_usDrCQWTq_1iz_rv7zrwcLhZ-l4eNm_4fjJ5Gjp4BUDjOcUYg_3UYT0RPpSdlT" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atal-amitabh-4a0b771b2" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atalamitabh8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="atalamitabh8" height="30" width="40" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/287797/screenshots/9657405/media/d4f448c2c8dbb61ba5344422dd94934b.gif">
