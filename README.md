@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **atalamitabh8@gmail.com**
 
-- 👨‍💻 My portfolio(You can contact me by writting message here) [https://atal-portfolio.herokuapp.com/contact](https://atal-portfolio.herokuapp.com/contact)
+- 👨‍💻 My portfolio(You can contact me by writting message here) [https://atal-portfolio.herokuapp.com/](https://atal-portfolio.herokuapp.com/)
 
 - ⚡ Fun fact **One thing on my bucket list is to do skydiving.**
 
